@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "destination": "Benidorm",
   "updated": "2026-11-01",
   "intro": "Explore Benidorm at your own pace. Save your plans, favourites and holiday spending on your device.",
@@ -181,6 +181,86 @@
     {
       "name": "Serra Gelada nature outing",
       "description": "Enjoy coastal scenery on a suitable trail; choose routes based on weather, ability and footwear."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Old Town tapas streets",
+      "description": "Explore the narrow streets around Calle Santo Domingo for tapas bars and traditional Spanish dishes. Check menus and prices before ordering."
+    },
+    {
+      "name": "Levante promenade cafés",
+      "description": "Seafront cafés and casual dining with views across Levante Beach."
+    },
+    {
+      "name": "Poniente promenade restaurants",
+      "description": "Restaurants and cafés along the western promenade, suited to a relaxed meal or coffee."
+    },
+    {
+      "name": "La Cala de Finestrat",
+      "description": "Nearby coastal dining area with cafés and restaurants around the beach."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Altea",
+      "description": "Whitewashed Old Town, church square and sea views. Accessible by local transport; check current TRAM and bus connections."
+    },
+    {
+      "name": "Guadalest",
+      "description": "Mountain village known for its castle views and reservoir. Check bus or organised excursion availability before travelling."
+    },
+    {
+      "name": "Villajoyosa (La Vila Joiosa)",
+      "description": "Colourful waterfront houses, beaches and chocolate heritage. Check current TRAM services and attraction opening times."
+    },
+    {
+      "name": "Calpe",
+      "description": "Coastal town with beaches and the prominent Peñón de Ifach rock. Check transport and walking conditions."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Levante Beach",
+      "description": "Central eastern beachfront and promenade.",
+      "lat": 38.5363,
+      "lon": -0.1194
+    },
+    {
+      "name": "Poniente Beach",
+      "description": "Western beach and long promenade.",
+      "lat": 38.5354,
+      "lon": -0.1475
+    },
+    {
+      "name": "Balcón del Mediterráneo",
+      "description": "Viewpoint between the main beaches.",
+      "lat": 38.5334,
+      "lon": -0.1319
+    },
+    {
+      "name": "Benidorm Old Town",
+      "description": "Historic streets, tapas and shops.",
+      "lat": 38.5363,
+      "lon": -0.1323
+    },
+    {
+      "name": "Altea Old Town",
+      "description": "Whitewashed streets and viewpoint.",
+      "lat": 38.5986,
+      "lon": -0.0502
+    },
+    {
+      "name": "Guadalest",
+      "description": "Mountain village and reservoir views.",
+      "lat": 38.6769,
+      "lon": -0.1985
+    },
+    {
+      "name": "Villajoyosa waterfront",
+      "description": "Colourful houses and seafront.",
+      "lat": 38.5072,
+      "lon": -0.2327
     }
   ]
 }

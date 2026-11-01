@@ -7,3 +7,7 @@ MANAGER: Keep guide-manager.html on your computer. Import the included guide.jso
 V2 adds Beaches & coves, Markets & shopping, Nightlife & evenings, and Family activities. Existing planner, packing, spending, favourites, personal notes and backup retain the same localStorage key as V1.1.
 
 Guide information is general and may change. Confirm current opening hours, prices, schedules and local safety advice online.
+
+V3 NEW: interactive online OpenStreetMap, editable map place list with Google Maps directions links, dining and day trips.
+Guide Manager: import the included V3 guide.json, edit new sections, then export guide.json.
+The interactive map and directions need internet. Personal saved data uses the same storage key as V2.
