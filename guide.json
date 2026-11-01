@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "destination": "Benidorm",
   "updated": "2026-11-01",
   "intro": "Explore Benidorm at your own pace. Save your plans, favourites and holiday spending on your device.",
@@ -106,5 +106,81 @@
     "image": "adverts/advert.jpg",
     "link": "",
     "alt": "Destination advert"
-  }
+  },
+  "beaches": [
+    {
+      "name": "Levante Beach",
+      "description": "Lively sandy beach with a busy promenade, places to eat and water activities; look for beach safety flags."
+    },
+    {
+      "name": "Poniente Beach",
+      "description": "Long sandy beach with a broad promenade, attractive for walks and relaxed beach days."
+    },
+    {
+      "name": "Mal Pas Beach",
+      "description": "Small cove by the Old Town and harbour; can be busy during peak season."
+    },
+    {
+      "name": "Cala Tío Ximo",
+      "description": "Small rocky cove beyond Levante, suited to a quieter stop; check access and sea conditions."
+    },
+    {
+      "name": "La Cala de Finestrat",
+      "description": "Sheltered sandy bay just outside Benidorm with restaurants and a promenade."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Benidorm outdoor markets",
+      "description": "Browse clothes, gifts and everyday items. Market days, locations and opening hours can change; check locally before visiting."
+    },
+    {
+      "name": "Old Town shopping streets",
+      "description": "Explore smaller shops, cafés and local businesses around the historic centre."
+    },
+    {
+      "name": "Local produce and food shopping",
+      "description": "Look for fresh food shops and municipal markets; check current opening hours and holiday closures."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Levante entertainment area",
+      "description": "A lively area for bars, live music and evening entertainment. Check venue schedules and accessibility."
+    },
+    {
+      "name": "Old Town evenings",
+      "description": "Restaurants, tapas bars and smaller venues offer an alternative to the busiest nightlife streets."
+    },
+    {
+      "name": "Seafront sunset stroll",
+      "description": "Walk the Levante or Poniente promenades for a relaxed evening; be mindful of personal belongings."
+    },
+    {
+      "name": "Shows and cabaret",
+      "description": "Entertainment programmes vary by season; confirm times, prices and age restrictions with venues."
+    }
+  ],
+  "family": [
+    {
+      "name": "Aqualandia",
+      "description": "Seasonal water park with slides and pools; check opening dates, height rules and tickets."
+    },
+    {
+      "name": "Terra Mítica",
+      "description": "Theme park with rides and shows; confirm seasonal schedule and ride restrictions."
+    },
+    {
+      "name": "Mundomar",
+      "description": "Wildlife park with exhibits and activities; check the official visitor information."
+    },
+    {
+      "name": "Beach and promenade day",
+      "description": "Easy-going family day at Poniente or Levante; use shade, sun protection and beach flags."
+    },
+    {
+      "name": "Serra Gelada nature outing",
+      "description": "Enjoy coastal scenery on a suitable trail; choose routes based on weather, ability and footwear."
+    }
+  ]
 }
