@@ -11,3 +11,5 @@ Guide information is general and may change. Confirm current opening hours, pric
 V3 NEW: interactive online OpenStreetMap, editable map place list with Google Maps directions links, dining and day trips.
 Guide Manager: import the included V3 guide.json, edit new sections, then export guide.json.
 The interactive map and directions need internet. Personal saved data uses the same storage key as V2.
+
+V3.1: Removed Explore on the map panel and embedded map. Kept place/directions links under Useful information.
