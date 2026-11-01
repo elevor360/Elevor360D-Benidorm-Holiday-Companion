@@ -13,3 +13,5 @@ Guide Manager: import the included V3 guide.json, edit new sections, then export
 The interactive map and directions need internet. Personal saved data uses the same storage key as V2.
 
 V3.1: Removed Explore on the map panel and embedded map. Kept place/directions links under Useful information.
+
+V3.2: Added Memorable Visits with venue, category, date, owner/host, details, 0–5 stars, edit/delete, and backup/restore. No changes to guide manager.
