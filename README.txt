@@ -15,3 +15,5 @@ The interactive map and directions need internet. Personal saved data uses the s
 V3.1: Removed Explore on the map panel and embedded map. Kept place/directions links under Useful information.
 
 V3.2: Added Memorable Visits with venue, category, date, owner/host, details, 0–5 stars, edit/delete, and backup/restore. No changes to guide manager.
+
+V3.3: Added My Holiday Photo Album. Images resized and stored privately in IndexedDB. The Download backup now includes photos as base64 JSON; large albums create large backup files. Restore supports both older backups without photos and new photo-inclusive backups. The Guide Manager remains unchanged. Photos can be lost if browser data is cleared; encourage customers to back up regularly.
