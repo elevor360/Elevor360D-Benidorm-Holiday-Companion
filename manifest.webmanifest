@@ -1,0 +1,25 @@
+{
+  "id": "./?app=benidorm-holiday-companion",
+  "name": "Elevor360D Benidorm Holiday Companion",
+  "short_name": "Benidorm Guide",
+  "description": "Offline-friendly Benidorm holiday guide and personal planner",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c2440",
+  "theme_color": "#0c2440",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "version": "1.0",
+  "destination": "Benidorm",
+  "updated": "2026-11-01",
+  "intro": "Explore Benidorm at your own pace. Save your plans, favourites and holiday spending on your device.",
+  "areas": [
+    {
+      "name": "Levante Beach",
+      "description": "Popular eastern beach with a long promenade, cafes and a lively atmosphere."
+    },
+    {
+      "name": "Poniente Beach",
+      "description": "Wide western beach and promenade, often a quieter choice for a stroll."
+    },
+    {
+      "name": "Old Town",
+      "description": "Winding streets, shops and traditional places to eat between the two main beaches."
+    },
+    {
+      "name": "Balcón del Mediterráneo",
+      "description": "Scenic viewpoint between Levante and Poniente beaches."
+    },
+    {
+      "name": "La Cala / Finestrat",
+      "description": "Nearby coastal area worth exploring for a change of scenery."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Benidorm Old Town",
+      "description": "Explore the streets, viewpoints and local shops."
+    },
+    {
+      "name": "Parque de Elche",
+      "description": "Seafront park near the Old Town and Poniente."
+    },
+    {
+      "name": "Serra Gelada Natural Park",
+      "description": "Coastal landscape and walking routes; check trail conditions and difficulty."
+    },
+    {
+      "name": "Terra Mítica",
+      "description": "Theme park; check current operating dates and tickets online."
+    },
+    {
+      "name": "Aqualandia",
+      "description": "Water park; check seasonal opening before visiting."
+    },
+    {
+      "name": "Mundomar",
+      "description": "Wildlife attraction; check current visitor information online."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Walking",
+      "description": "Promenades and central areas are walkable; allow for hills around the Old Town."
+    },
+    {
+      "name": "Local buses",
+      "description": "Check current routes, fares and timetables with the local operator."
+    },
+    {
+      "name": "Tram",
+      "description": "TRAM d’Alacant serves the wider Costa Blanca; check the official timetable."
+    },
+    {
+      "name": "Airport transfers",
+      "description": "Compare transfer options from Alicante–Elche Airport before travel."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Call 112 in an emergency in Spain."
+    },
+    {
+      "name": "Healthcare",
+      "description": "Bring appropriate travel insurance and any relevant healthcare documents."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check current entry and passport requirements before departure."
+    },
+    {
+      "name": "Live weather and opening hours",
+      "description": "Require internet access; verify locally before setting out."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "TRAM d’Alacant",
+      "url": "https://www.tramalacant.es/"
+    },
+    {
+      "name": "Benidorm tourism",
+      "url": "https://en.visitbenidorm.es/"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Destination advert"
+  }
+}
