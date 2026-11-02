@@ -12,3 +12,5 @@ To update adverts using your working Universal Advertising Manager V1:
 The original guide advert section remains unchanged. This version adds a separate rotating banner above the guide menu. Example banner can be replaced by your exported file.
 
 NOTE: Manager V1 exports files; it does not publish to GitHub automatically. Existing app data is stored on the device; keep a backup before updating.
+
+V4.1 fix: corrected advertising control IDs; updated service worker cache.
