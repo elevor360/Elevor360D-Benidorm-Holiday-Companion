@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "benidorm-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}
