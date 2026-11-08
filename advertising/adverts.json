@@ -1,18 +1,49 @@
 {
   "version": 1,
+  "updatedAt": "2026-11-08T14:11:11.486Z",
   "rotationSeconds": 8,
   "ads": [
     {
-      "id": "benidorm-example",
-      "title": "Elevor360D Benidorm Holiday Companion",
+      "id": "iona-example",
+      "title": "Discover more Elevor360D apps",
       "type": "own",
       "active": true,
-      "target": "holiday",
+      "target": "cruise",
       "appIds": [],
       "start": "",
       "end": "",
       "url": "https://elevor360d.co.uk/",
-      "image": "images/benidorm-promo.jpg"
+      "image": "images/elevor360d-promo.jpg"
+    },
+    {
+      "id": "villa-select",
+      "type": "paid",
+      "title": "Villa Select – Your Perfect Villa Holiday",
+      "business": "travel",
+      "url": "https://www.paidonresults.net/c/63151/1/1735/0",
+      "image": "images/villa-select-banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
+    },
+    {
+      "id": "cruise",
+      "type": "own",
+      "title": "Elevor360D Cruise Companion Apps",
+      "business": "Elevor360D",
+      "url": "https://elevor360d.co.uk/travel-companions.html",
+      "image": "images/Elevor360D Cruise Companions Banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
     }
   ]
 }
